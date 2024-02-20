@@ -1,4 +1,4 @@
-
+//Implement Stack using Queues
 struct queueNode{
     int data;
 };
